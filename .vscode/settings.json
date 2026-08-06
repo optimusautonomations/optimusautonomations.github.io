@@ -1,0 +1,69 @@
+{
+    "editor.tokenColorCustomizations": {
+        "[*Dark*][*dark*]": {
+            "textMateRules": [
+                {
+                    "name": "Build Console Error",
+                    "scope": [
+                        "dvt.build.error"
+                    ],
+                    "settings": {
+                        "foreground": "#f48771"
+                    }
+                },
+                {
+                    "name": "Build Console Warning",
+                    "scope": [
+                        "dvt.build.warning"
+                    ],
+                    "settings": {
+                        "foreground": "#cca700"
+                    }
+                }
+            ]
+        },
+        "[*Light*][*light*]": {
+            "textMateRules": [
+                {
+                    "name": "Build Console Error",
+                    "scope": [
+                        "dvt.build.error"
+                    ],
+                    "settings": {
+                        "foreground": "#b01011"
+                    }
+                },
+                {
+                    "name": "Build Console Warning",
+                    "scope": [
+                        "dvt.build.warning"
+                    ],
+                    "settings": {
+                        "foreground": "#855f00"
+                    }
+                }
+            ]
+        },
+        "textMateRules": [
+            {
+                "name": "Build Console Error",
+                "scope": [
+                    "dvt.build.error"
+                ],
+                "settings": {
+                    "foreground": "#fc614c"
+                }
+            },
+            {
+                "name": "Build Console Warning",
+                "scope": [
+                    "dvt.build.warning"
+                ],
+                "settings": {
+                    "foreground": "#ffc330"
+                }
+            }
+        ],
+        "comments": "#747474"
+    }
+}
