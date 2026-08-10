@@ -4,10 +4,10 @@ import "@fontsource-variable/montserrat";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://optimusautomation.com"),
-  title: "Optimus Autonomations | Intelligent Machines & Industrial Automation",
+  metadataBase: new URL("https://optimusautonomations.com"),
+  title: "Optimus Autonomations | Engineering & Industrial Automation",
   description:
-    "Industrial machine design, factory automation, robotics, CAD, PLC programming, simulation, prototyping, and AI-powered engineering solutions.",
+    "Engineering consultancy, industrial machine design, factory automation, PLC controls, FEA and CFD simulation for manufacturing industries.",
   keywords: [
     "Optimus Autonomations",
     "industrial automation outsourcing",
@@ -19,8 +19,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "Transforming Ideas into Intelligent Machines",
-    description:
-      "International-standard CAD drafting, custom automation machinery, and scalable engineering outsourcing since 2009.",
+    description: "Engineering consultancy and industrial machine design solutions for manufacturing industries.",
     images: ["/images/industrial-automation-hero.png"],
   },
 };
