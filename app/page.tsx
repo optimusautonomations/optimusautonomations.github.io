@@ -69,7 +69,7 @@ export default function Home() {
           <div className="hero-overlay" />
           <div className="section-shell hero-content">
             <p className="eyebrow light">Engineering consultancy · Sri Lanka</p>
-            <h1>Engineering ideas into intelligent machines.</h1>
+            <h1>Transforming ideas into intelligent machines.</h1>
             <p className="hero-copy">Hands-on machine design, automation, controls and simulation for manufacturing industries.</p>
             <div className="hero-actions">
               <Link href="#contact" className="button button-primary">Discuss a project <span aria-hidden="true">↗</span></Link>
