@@ -91,7 +91,7 @@ export default function Home() {
             </div>
             <div className="intro-copy">
               <p>Optimus Autonomations International (Pvt) Ltd solves critical production challenges through practical mechanical design, automation, controls and simulation.</p>
-              <p>Led by Nipun Kosgoda, a Mechanical & Manufacturing Engineer with more than a decade of industrial experience, every engagement is grounded in feasibility, validation and clear documentation.</p>
+              <p>Every engagement is grounded in feasibility, validation and clear documentation, from the first production brief through to final handover.</p>
             </div>
           </div>
         </section>
@@ -133,14 +133,14 @@ export default function Home() {
 
         <section id="contact" className="section contact">
           <div className="section-shell contact-grid">
-            <div><p className="eyebrow light">Start a conversation</p><h2>Let&apos;s build intelligent machines.</h2><p>Share the production problem, performance goal or new-machine brief. We&apos;ll help define the right engineering path.</p></div>
-            <div className="contact-card">
-              <p className="contact-name">Nipun Kosgoda</p>
-              <p>Director · Mechanical & Manufacturing Engineer</p>
-              <p className="credentials">B.Sc. Eng. (Hons) · AMIESL-21890 · TPM</p>
-              <a href="tel:+94777899187">+94 77 789 9187</a>
-              <a href="mailto:optimusautonomations@gmail.com">optimusautonomations@gmail.com</a>
-              <p>Kaduwela · Ratnapura · Sri Lanka</p>
+            <div className="contact-content">
+              <p className="eyebrow light">Start a conversation</p>
+              <h2>Let&apos;s build intelligent machines.</h2>
+              <p>Share the production problem, performance goal or new-machine brief. We&apos;ll help define the right engineering path.</p>
+              <a className="whatsapp-button" href="https://wa.me/94777899187" target="_blank" rel="noreferrer" aria-label="Start a conversation on WhatsApp">
+                <svg aria-hidden="true" viewBox="0 0 24 24" fill="currentColor"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.4-1.48a9.04 9.04 0 0 1-1.66-2.06c-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.67-1.62-.92-2.22-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.02-1.04 2.49s1.07 2.89 1.22 3.09c.15.2 2.1 3.21 5.1 4.5.71.31 1.27.49 1.7.63.72.23 1.37.2 1.88.12.58-.09 1.76-.72 2.01-1.42.25-.7.25-1.3.17-1.42-.07-.13-.27-.2-.57-.35M12.04 21.5h-.01a9.46 9.46 0 0 1-4.82-1.32l-.35-.21-3.58.94.96-3.49-.23-.36A9.46 9.46 0 0 1 2.55 12c0-5.21 4.25-9.45 9.49-9.45a9.4 9.4 0 0 1 6.71 2.78A9.37 9.37 0 0 1 21.52 12c0 5.21-4.25 9.45-9.48 9.45m8.07-17.48A11.35 11.35 0 0 0 12.05.68C5.77.68.66 5.76.66 12.02c0 2 .52 3.95 1.52 5.67L.56 23.6l6.07-1.59a11.42 11.42 0 0 0 5.42 1.38h.01c6.28 0 11.39-5.09 11.39-11.34 0-3.03-1.19-5.88-3.34-8.02"/></svg>
+                Chat on WhatsApp
+              </a>
             </div>
           </div>
         </section>
